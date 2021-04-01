@@ -6,6 +6,6 @@ def search(list):
             minlis=j
         list[i],list[minlist]=list[minlist],list[j]
         
-list=[65,67,68,75,87,98]
+list=[65,67,68,75,87,99]
 sort(list)
 print(list)
